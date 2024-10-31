@@ -1,0 +1,38 @@
+.text{
+    font-size: 25px;
+    font-family: sans-serif;
+    padding-left: 40px;
+    font-weight: lighter;
+    font-style: initial;
+   
+    color: rgb(2, 72, 133);
+}
+    header h1{
+    text-align: center;
+    font-family: sans-serif;
+}
+body{
+    background-image:url(https://altanschool.s3.eu-central-1.amazonaws.com/learns/1697021662483_headerpic.jpg) ;
+}
+.nav ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(188, 235, 255);
+    font-size: 20px;
+    width: 100%;
+    overflow: hidden;
+}
+.nav a{
+    display: block;
+    text-decoration: none;
+    color: black;
+    padding: 8px 16px;
+    
+    float: left;
+    font-family: sans-serif;
+}
+.nav a:hover{
+    color: aqua;
+    background-color: brown;
+}
